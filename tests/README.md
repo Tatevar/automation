@@ -1,6 +1,6 @@
-# BuildHero-Cypress
+# Nugverse-Cypress
 
-# This is a test project with end to end tests for the BuildHero project
+# This is a test project with end-to-end tests for the BuildHero project
 
 # tests are added in BDD - Cucumber/ with Typescript
 
