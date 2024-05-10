@@ -1,0 +1,13 @@
+{
+    "include": ["**/*.ts", "cypress/support/commands.ts"],
+    "compilerOptions": {
+        "sourceMap": false,
+        "baseUrl": "./cypress",
+        "paths": {
+            "@/*": ["*"],
+            "@support/*": ["support/*"],
+            "@integration/*": ["integration/*"],
+            "@fixtures/*": ["fixtures/*"]
+        }
+    }
+}
